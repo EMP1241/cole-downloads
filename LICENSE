@@ -1,0 +1,66 @@
+COLE — Cost Of Living Explorer
+Copyright Notice and Limited Use License
+
+Copyright (c) 2026 Brandon Santor for his original COLE work.
+Application creator and developer: Brandon Santor.
+All rights reserved except as expressly granted below.
+
+1. Authorized download and use
+
+You may obtain COLE only directly from Brandon Santor or from an official
+website or download source he designates. You may install and run the
+unmodified software for your own use. You may make copies technically
+necessary for that authorized download, installation and operation, and
+keep private backup copies for your own use. These copies may not be
+provided to other people.
+
+2. Modification and redistribution
+
+Except as permitted by applicable law or separate written permission from
+the applicable copyright holder(s), you may not copy beyond the permission
+in section 1, modify, create derivative works of, redistribute, publish,
+sublicense or sell COLE's original source code or application binaries.
+You may not forward, share, rehost or mirror COLE files for other people.
+Direct other users to Brandon Santor or his official download source so
+that each person obtains their own authorized copy. Requests concerning
+Brandon Santor's work may be sent to brandon.santor@tamu.edu or
+brandon.santor@gmail.com.
+
+3. Copyright and attribution
+
+Keep the copyright, license and attribution notices intact in every copy
+you are permitted to make. Do not remove or misrepresent author or
+contributor credits. No ownership of the software is transferred by this
+license.
+
+Brandon Santor created COLE's application functionality, logic system,
+feature concepts and baseline Python code, and developed, corrected,
+customized and integrated the feature add-ons into the application.
+Brandon also curated, screened and validated the Greenspace data.
+
+Feature add-on contributors are acknowledged in the application.
+This notice does not transfer ownership of any contributor's work or
+assert that Brandon owns rights held by another contributor. Permissions
+apply only to rights the licensor is authorized to grant.
+
+4. Third-party software and data
+
+This license covers protected expression in COLE's original software. It
+does not assert copyright over ideas, methods, systems or facts.
+
+This license does not replace or restrict permissions granted by the
+licenses for bundled third-party software, assets or source datasets and
+their derived data. Those materials retain their respective terms and
+required notices. See THIRD_PARTY_NOTICES.md and the bundled dependency
+licenses. In particular, EPI Family Budget Calculator data and COLE's
+adaptation of those data are subject to CC BY-NC-SA 4.0; they are not
+relicensed under this software license.
+
+5. No warranty
+
+To the extent permitted by applicable law, COLE is provided "as is",
+without warranties of any kind, express or implied, including
+merchantability, fitness for a particular purpose and noninfringement.
+The authors and contributors are not liable for claims, damages or other
+liability arising from the software or its use, except where applicable
+law requires otherwise.
