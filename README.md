@@ -3,7 +3,7 @@
 Application creator and developer: Brandon Santor.
 
 [Use COLE online](https://costoflivingexplorer.onrender.com) or
-[download COLE for Windows 64-bit](https://github.com/EMP1241/cole-downloads/releases/download/v1.0.0/COLE-Windows-x64-1.0.0.zip).
+[download COLE for Windows 64-bit](https://github.com/EMP1241/cole-downloads/releases/download/v1.0.1/COLE-Windows-x64-1.0.1.zip).
 No account or Python installation is required.
 
 Extract the entire ZIP and run COLE.exe with its _internal folder beside it.
